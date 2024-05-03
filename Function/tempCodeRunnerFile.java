@@ -1,0 +1,2 @@
+
+            binNum = binNum/10;
